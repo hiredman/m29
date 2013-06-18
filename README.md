@@ -5,6 +5,8 @@ shortener http://m29.us/
 
 ## Usage
 
+`[com.thelastcitadel/m29 "0.1.0"]`
+
 ```clojure
 (require 'com.thelastcitadel.m29)
 
